@@ -1,2 +1,2 @@
 # I.HussainTechPortfolio
-Codings I have done QA Academy 
+Codings I have done in the QA Academy 
